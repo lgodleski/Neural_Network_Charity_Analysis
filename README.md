@@ -24,4 +24,4 @@ The purpose of this project is to create a deep-learning neural network to analy
 <br> ![](Resources/optimization_3.png)
    
 ## Summary
-Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
+Overall, even after several optimization attempts, our model accuracy score was a 72.7% so it was able to accurately predict whether or not a charitable donation was used effectively 72.7% of the time. A logistic regression model could also solve this classification problem. Logistic regression models are used to analyze continuous and categorical variables to predict the probability of the input data belonging to one of two groups which is essentially what we are trying to accomplish here. Logistic regression models are also less complicated to implement and easier to interpret. 
