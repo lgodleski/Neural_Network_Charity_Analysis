@@ -21,7 +21,7 @@ The purpose of this project is to create a deep-learning neural network to analy
    - In my second optimization attempt I added more neurons to the model and used the sigmoid activation function instead but the accuracy score stayed about the same at a 72.5%.
 <br> ![](Resources/optimization2.png)
    - In my third and final optimization attempt, I added a third hidden layer to the model but the accuracy score was only at 72.8%.
-<br> ![](Resources/optimization3.png)
+<br> ![](Resources/optimization_3.png)
    
 ## Summary
 Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
